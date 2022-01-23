@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13587" started-at="2022-01-21T18:54:24 IST" finished-at="2022-01-21T18:54:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13587" started-at="2022-01-21T18:54:24 IST" finished-at="2022-01-21T18:54:38 IST">
+      <class name="com.resonance.homepage.HomePageTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.resonance.homepage.HomePageTests@4eb7f003]" name="setup" is-config="true" duration-ms="6715" started-at="2022-01-21T18:54:24 IST" finished-at="2022-01-21T18:54:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOnClickOfJoinMeetingUserLandsOnQuickJoinMeetingPage()[pri:0, instance:com.resonance.homepage.HomePageTests@4eb7f003]" name="verifyOnClickOfJoinMeetingUserLandsOnQuickJoinMeetingPage" duration-ms="6155" started-at="2022-01-21T18:54:31 IST" finished-at="2022-01-21T18:54:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnClickOfJoinMeetingUserLandsOnQuickJoinMeetingPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.resonance.homepage.HomePageTests@4eb7f003]" name="tearDown" is-config="true" duration-ms="699" started-at="2022-01-21T18:54:37 IST" finished-at="2022-01-21T18:54:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.resonance.homepage.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

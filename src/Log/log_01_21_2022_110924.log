@@ -1,0 +1,6 @@
+2022-Jan-21 11:09:24,303 [main] com.resonance.utility.Keyword 
+  INFO  https://demo.opencart.com/ is launched successfully
+2022-Jan-21 11:09:24,309 [main] com.resonance.traveltests.OpenCart_Register 
+  INFO  url opened
+2022-Jan-21 11:09:24,368 [main] com.resonance.traveltests.OpenCart_Register 
+  INFO  Clicked on My Account on Home Page
