@@ -19,6 +19,13 @@ public class HomePageTests extends BaseFramework {
 		JoinMeetingPage joinMeeting = new JoinMeetingPage();//PageFactory.initElements(driver, JoinMeetingPage.class);
 		String actualHeading = joinMeeting.getPageHeading();
 		Assert.assertEquals(actualHeading, "Quick Join a Meeting");
+		
+		
+		
 	}
 
+	
+	public void m2(){
+		System.out.println("m2 updates done: ");
+	}
 }
